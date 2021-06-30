@@ -7,8 +7,9 @@
   &nbsp; 
   &nbsp; 
     
-一个小时，60分钟, 能做些什么?
-One hour, 60 minutes, what can you do?
+一个小时，60分钟, 能做些什么? &nbsp; One hour, 60 minutes, what can you do?
+
+
 
 - 可以走5000步;
 - Can take 5,000 steps;
