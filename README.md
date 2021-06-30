@@ -12,7 +12,6 @@
 - 可以跑5公里; &nbsp; Can listen to 12 son
 - 可以听12首歌; &nbsp;Can listen to 12 songs;
 - 可以做1顿饭; &nbsp; Can cook a meal;
-- 可以牢记100个单词! &nbsp; Can memorize 100 word
 - 可以做很多事 所以 &nbsp; You can do a lot of things so
 
 &nbsp; 
