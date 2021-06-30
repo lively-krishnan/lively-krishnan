@@ -1,10 +1,10 @@
 ### Hi, I am Karson! 👋
 
-#### 来自中国的前端开发人员 🇨🇳
-#### A front-end developer from China 🇨🇳
+ 来自中国的前端开发人员 🇨🇳
+ 
+ A front-end developer from China 🇨🇳
 
   &nbsp;
-  &nbsp; 
 
 一个小时，60分钟, 能做些什么? &nbsp; One hour, 60 minutes, what can you do?
 
