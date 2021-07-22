@@ -1,5 +1,3 @@
-<div width="100%">
- 
  
 ### Hi, I am Karson! 👋
 
@@ -23,8 +21,6 @@
 
    Start by saving an hour 💪
  
-</div>
-
 <br/>
 
 ### GitHub Analytics
