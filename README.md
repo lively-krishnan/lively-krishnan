@@ -1,5 +1,3 @@
- ### Hi, I am krishnan! 👋
+ ### Hi, I am krishnan! 👋 A front-end developer from China 🇨🇳
 
-### A front-end developer from China 🇨🇳
-
-My practical series
+This is my series of useful plug-ins
